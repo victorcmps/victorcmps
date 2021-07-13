@@ -12,7 +12,7 @@
 
 
 ### About  
-I'm a professional with 4+ years of experience. Currently working at [TOTVS](https://totvs.com) focusing on front-end using the Angular platform. 
+I'm a professional with 4+ years of experience. Currently working at [Banco PAN](https://www.bancopan.com.br/) focusing on front-end using the Angular platform. 
 
 Experience in large applications with unit tests, end-to-end tests and CI/CD.  
   
