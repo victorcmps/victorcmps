@@ -12,7 +12,7 @@
 
 
 ### About  
-I'm a professional with 4+ years of experience. Currently working at [Banco PAN](https://www.bancopan.com.br/).  
+I'm a professional with 6+ years of experience. Currently working at [Banco PAN](https://www.bancopan.com.br/).  
   
 
 <br/>  
